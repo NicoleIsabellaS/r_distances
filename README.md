@@ -1,1 +1,3 @@
-# r_distances
+# R Distances
+
+Based on R's "philentropy" package.
